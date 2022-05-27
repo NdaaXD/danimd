@@ -4234,13 +4234,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'W E B A P I',
-                                    url: 'https://kanza-api.herokuapp.com'
+                                    displayText: 'Github',
+                                    url: 'https://github.com/NdaaXD'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'A U T H O R C A L L',
-                                    phoneNumber: '+62 857-1462-7920'
+                                    phoneNumber: '+62 821-4561-4361'
                                 }
                             }, {
                                 quickReplyButton: {
